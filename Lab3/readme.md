@@ -13,3 +13,5 @@
 # Python
 ### Psudo Code: this is a coding languae that is inteded for human reading rather than computer reading. 
 ### Compiled languae takes the code written and transforms it into bianary where as interprited langue dose not get converted into bianary. 
+# Career exploration
+### Career Expansion: I have found that most of of the job postings are for help desk technicians. This is quite good for me as I think I would make a good customer support tech.
