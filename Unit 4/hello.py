@@ -8,5 +8,5 @@ print ('The lenght of your name is:')
 print (len(myName))
 print ('What is your age') # ask for thier age
 myAge = input()
-print('You will be ' + str(int(myAge) + 1) + 'k in a year.')
+print('You will be ' + str(int(myAge) + 1) + ' in a year.')
 
